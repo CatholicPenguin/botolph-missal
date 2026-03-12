@@ -1,0 +1,1 @@
+The Saint Botolph's Missal comes from the desire for a single book for use in the celebration of the Holy Sacrifice of the Mass, based on the 2025 Proposed Book of Common Prayer. It provides the Anglican Missal (as celebrated within the Orthodox Church) with supplementation from the English Missal.
