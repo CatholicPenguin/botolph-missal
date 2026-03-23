@@ -12,7 +12,7 @@
 \GreHeader{book}{Graduale Romanum, 1961, p. 152* & Graduale Romanum, 1961, p. 216 & The Liber Usualis, 1961, p. 957 & Chants of the Church, 1956, p. 125 & Liber antiphonarius, 1960, p. 527}%
 \GreHeader{transcriber}{Augustine Watson}%
 \GreEndHeaders %
-\GreBeginScore{dcf90643acd2e9111806141528bd244f05cc969b}{13}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
+\GreBeginScore{f09157f2a956b2cc54ddea9e8730685b9f36b884}{13}{6}{0}{0}{}{4}{\GreInitialClefPosition{4}{0}}%
 \GreMode{\GreModeNumber{3}}{}{}%
 \GreSetLargestClef{c}{4}{3}{c}{0}{3}%
 \GreScoreOpening{%
@@ -670,7 +670,7 @@
 \GreDivisioMinima{0}{}{0}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{Sc}{a}{t}{S}{cat}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{e}{red}{t}{ered}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{Sc}{a}{t}{S}{cat}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{t}{e}{r'd}{t}{er'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{10}{\GreNextCustos{11}{}}{0}%
 {%
@@ -679,7 +679,7 @@
 \GreVEpisema{9}{\GreOCaseFinalPunctum}%
 }{}%
 }%
-\GreSyllable{\GreSetThisSyllable{t}{e}{red}{t}{ered}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{e}{}{h}{e}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{t}{e}{r'd}{t}{er'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{h}{e}{}{h}{e}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{9}{}}{0}%
 {%
@@ -820,7 +820,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{h}{e}{}{h}{e}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{cl}{o}{sed}{c}{losed}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{h}{e}{}{h}{e}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{cl}{o}{s'd}{c}{los'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{11}{\GreNextCustos{9}{}}{0}%
 {%
@@ -830,7 +830,7 @@
 }{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{cl}{o}{sed}{c}{losed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{8}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{cl}{o}{s'd}{c}{los'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{n}{i}{n}}{}{{8}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{10}{}}{0}%
 {%
@@ -1116,7 +1116,7 @@
 }{}{}%
 }%
 %
-\GreSyllable{\GreSetThisSyllable{f}{i}{n}{f}{in}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{i}{shed}{i}{shed}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{f}{i}{n}{f}{in}}{}{\GreUnstyled}{0}{\GreSetNextSyllable{}{i}{sh'd}{i}{sh'd}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{9}{}}{0}%
 {%
@@ -1125,7 +1125,7 @@
 \GreVEpisema{8}{\GreOCaseFinalPunctum}%
 }{}%
 }%
-\GreSyllable{\GreSetThisSyllable{}{i}{shed}{i}{shed}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{ts}{i}{ts}}{}{{0}{0}}{}{%
+\GreSyllable{\GreSetThisSyllable{}{i}{sh'd}{i}{sh'd}}{}{\GreUnstyled}{1}{\GreSetNextSyllable{}{i}{ts}{i}{ts}}{}{{0}{0}}{}{%
 \GreSyllableNoteCount{1}%
 \GreGlyph{\GreCPPunctum}{9}{\GreNextCustos{7}{}}{0}%
 {%
